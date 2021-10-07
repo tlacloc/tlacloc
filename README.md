@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats-tlacloc.vercel.app/api?username=tlacloc&show_icons=true&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats-tlacloc.vercel.app/api/top-langs/?username=tlacloc&layout=compact&count_private=true&hide=html&exclude_repo=github-readme-stats,pythonCodeExamples,self_driving_car,mayita-stock)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tlacloc.vercel.app/api/top-langs/?username=tlacloc&layout=compact&count_private=true&hide=html&exclude_repo=github-readme-stats,pythonCodeExamples,self_driving_car,mayita-stock,hadp-proyectos,hadp-clases,cr-review)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!-- Abbreviationss -->
